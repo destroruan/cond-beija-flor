@@ -21,7 +21,7 @@ header {
 header > menu {
     background-color: var(--backgroud00);
 }
-header > img {
+header > a > img {
     width: 320px;
     padding: 10px;
 }
