@@ -1,0 +1,7 @@
+CORES: 
+
+--cor00 = #05F2DB;
+--cor01 = #03A696;
+--cor02 = #03A688;
+--cor03 = #04BF7B;
+--backgroud00 = #40403D;
