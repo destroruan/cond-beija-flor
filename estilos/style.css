@@ -15,7 +15,11 @@ body, html {
     background-color: white;
 }
 header {
+    background-color: white;
     text-align: center;
+}
+header > menu {
+    background-color: var(--backgroud00);
 }
 header > img {
     width: 320px;
